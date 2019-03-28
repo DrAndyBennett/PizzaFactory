@@ -3,3 +3,7 @@
 ################################################################################
 
 /PizzaFactory.sln.DotSettings.user
+/PizzaFactory/obj/Debug
+/.vs/PizzaFactory/v15
+/packages
+/PizzaFactory/bin/Debug
